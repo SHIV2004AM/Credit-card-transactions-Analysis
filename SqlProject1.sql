@@ -1,4 +1,6 @@
-use creditCard
+-- SQL porfolio project.
+-- download credit card transactions dataset from below link :
+-- https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 select * from credit_card_transcations
 
 -- 1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
